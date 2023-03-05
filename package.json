@@ -1,0 +1,16 @@
+{
+  "name": "rocket-boots-eslint",
+  "version": "0.1.0",
+  "description": "Opinionated ES Linting Config",
+  "main": "eslint-config.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Nickerson",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
